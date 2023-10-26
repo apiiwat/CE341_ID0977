@@ -1,2 +1,11 @@
 # CE341_ID0977
 1.ทำการสร้าง repository![Screenshot 2023-10-26 214355](https://github.com/apiiwat/CE341_ID0977/assets/142970208/cace2064-ae67-4cc1-adda-6bffeecca4b3)
+2.ทำการสร้างไฟล์ index.html และใส่ข้อมูล ![Screenshot 2023-10-26 214539](https://github.com/apiiwat/CE341_ID0977/assets/142970208/1402e8b6-0178-4668-9c2e-2d1743a662db)
+3.ทำการอัพโหลดไฟล์ขึ้น repository![Screenshot 2023-10-26 214659](https://github.com/apiiwat/CE341_ID0977/assets/142970208/732b80cd-449f-4c08-b0c8-6f65d2cd8d84)
+4.ติดตั้ง apache2 ![Screenshot 2023-10-26 214811](https://github.com/apiiwat/CE341_ID0977/assets/142970208/a8c3c02b-81cc-46da-9110-20bde84b0f7b)
+5.ทำการติดตั้ง git![Screenshot 2023-10-26 214915](https://github.com/apiiwat/CE341_ID0977/assets/142970208/13261778-06e0-443e-8b21-861caec66cb6)
+6.จากนั้นทำการเข้าถึงโฟลเดอร์ที่ clone มาจาก git hub ![Screenshot 2023-10-26 215031](https://github.com/apiiwat/CE341_ID0977/assets/142970208/25aedcea-a083-4015-8a00-8b046853118a)
+7.ทำการ run file index.html ![Screenshot 2023-10-26 215118](https://github.com/apiiwat/CE341_ID0977/assets/142970208/30902027-f4b2-4b4e-8c24-0235453934d0)
+8.ย้ายไฟล์ index.html ไปโฟลเดอร์ของ apache ![Screenshot 2023-10-26 215158](https://github.com/apiiwat/CE341_ID0977/assets/142970208/911239df-e3f1-4a07-a699-8c2d3a29566b)
+9.ทำการกรอก URL เป็น ip address ของ Ubuntu ![Screenshot 2023-10-26 215246](https://github.com/apiiwat/CE341_ID0977/assets/142970208/32eca1ea-9fe7-4277-a800-bf6731f483cb)
+10.finally -o- ![Screenshot 2023-10-26 215355](https://github.com/apiiwat/CE341_ID0977/assets/142970208/82dbd3d7-00b8-40d5-9c3f-418077d6a728)
